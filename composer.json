@@ -1,5 +1,5 @@
 {
-  "name": "Tsrgtm/pageman",
+  "name": "tsrgtm/pageman",
   "description": "A Content Management System (CMS) package for Laravel, providing tools to manage pages, posts, and other content.",
   "keywords": [
     "laravel",
